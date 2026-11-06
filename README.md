@@ -52,4 +52,12 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
 ```
-![Confusion matrix](<images/Confusion matrix of the proposed method on the test set2.png>)
+## Confusion Matrix
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/freedompuls/CTDT_Knee/main/Confusion%20matrix%20of%20the%20proposed%20method%20on%20the%20test%20set2.png"
+       alt="Confusion matrix of the proposed method on the test set"
+       width="650">
+</p>
+
+<p align="center"><em>Fig. 4. Confusion matrix of the proposed method on the test set (n = 1,656; overall accuracy = 74.88%).</em></p>
