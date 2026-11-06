@@ -52,4 +52,4 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
 ```
-![image](Confusion matrix of the proposed method on the test set2.png)
+![Confusion matrix](<images/Confusion matrix of the proposed method on the test set2.png>)
