@@ -52,4 +52,7 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 pip install -r requirements.txt
 ```
-![Confusion matrix](https://raw.githubusercontent.com/freedompuls/CTDT_Knee/main/Confusion%20matrix%20of%20the%20proposed%20method%20on%20the%20test%20set2.png)
+![image](https://raw.githubusercontent.com/freedompuls/CTDT_Knee/main/Confusion%20matrix%20of%20the%20proposed%20method%20on%20the%20test%20set2.png)
+![image](https://github.com/freedompuls/CTDT_Knee/blob/main/Moving%20least%20squares%20geometric%20deformation%20data%20augmentation%20method.png)
+![image](https://github.com/freedompuls/CTDT_Knee/blob/main/Moving%20least%20squares%20geometric%20deformation%20data%20augmentation%20method2.png)
+![image](https://github.com/freedompuls/CTDT_Knee/blob/main/Overall%20structure%20of%20the%20proposed%20stacking%20ensemble%20framework.png)
